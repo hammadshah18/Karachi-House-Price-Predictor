@@ -1,7 +1,7 @@
 ```markdown
 # 🏠 Karachi House Price Predictor
 
-Welcome to the **Karachi House Price Predictor**, a machine learning web application built using **Streamlit** that estimates house prices in Karachi based on:
+Welcome to the Karachi House Price Predictor, a machine learning web application built using Streamlit that estimates house prices in Karachi based on:
 
 - 📍 Location  
 - 📐 Total area (in sqft)  
@@ -14,7 +14,7 @@ This tool uses a trained Linear Regression model with location-based one-hot enc
 
 ## 🚀 Live Demo
 
-🌐 **Hosted on Streamlit Cloud**  
+🌐 Hosted on Streamlit Cloud 
 👉 [Click here to view the live app](https://share.streamlit.io/hammadshah18/Karachi-House-Predictor/master/app.py) *(replace with actual deployed URL)*
 
 ---
